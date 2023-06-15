@@ -1,0 +1,102 @@
+{
+    "sourceFile": "README.md",
+    "activeCommit": 0,
+    "commits": [
+        {
+            "activePatchIndex": 21,
+            "patches": [
+                {
+                    "date": 1686784404600,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n"
+                },
+                {
+                    "date": 1686784441649,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -32,9 +32,7 @@\n - Lists should have `30px` of padding on the left.\n \n After you've completed these tasks, continue styling your page to make it look unique. You should add at least _ten additional declarations_ on top of the ones you've made above.\n \n-![An example page.](./assets/example-page.png)\n+![An example page.](./assets/example-page.p\n \n \n-\n-\n"
+                },
+                {
+                    "date": 1686784456221,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -32,7 +32,7 @@\n - Lists should have `30px` of padding on the left.\n \n After you've completed these tasks, continue styling your page to make it look unique. You should add at least _ten additional declarations_ on top of the ones you've made above.\n \n-![An example page.](./assets/example-page.p\n+![An example page.](./assets/example-page.png\n \n \n"
+                },
+                {
+                    "date": 1686784466675,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -33,6 +33,4 @@\n \n After you've completed these tasks, continue styling your page to make it look unique. You should add at least _ten additional declarations_ on top of the ones you've made above.\n \n ![An example page.](./assets/example-page.png\n-\n-\n"
+                },
+                {
+                    "date": 1686784474939,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -33,4 +33,8 @@\n \n After you've completed these tasks, continue styling your page to make it look unique. You should add at least _ten additional declarations_ on top of the ones you've made above.\n \n ![An example page.](./assets/example-page.png\n+\n+\n+\n+center \n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1686784480944,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -36,5 +36,4 @@\n ![An example page.](./assets/example-page.png\n \n \n \n-center \n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1686787523282,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -34,6 +34,4 @@\n After you've completed these tasks, continue styling your page to make it look unique. You should add at least _ten additional declarations_ on top of the ones you've made above.\n \n ![An example page.](./assets/example-page.png\n \n-\n-\n"
+                },
+                {
+                    "date": 1686787533159,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -32,6 +32,5 @@\n - Lists should have `30px` of padding on the left.\n \n After you've completed these tasks, continue styling your page to make it look unique. You should add at least _ten additional declarations_ on top of the ones you've made above.\n \n-![An example page.](./assets/example-page.png\n-\n+![An example page.](./assets/example-page.png)\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1686795630354,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -32,5 +32,7 @@\n - Lists should have `30px` of padding on the left.\n \n After you've completed these tasks, continue styling your page to make it look unique. You should add at least _ten additional declarations_ on top of the ones you've made above.\n \n-![An example page.](./assets/example-page.png)\n\\ No newline at end of file\n+![An example page.](./assets/example-page.png)\n+\n+\n"
+                },
+                {
+                    "date": 1686795851041,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -25,14 +25,13 @@\n - Give your `li` elements a 1px red border with curved corners.\n - Change the font color of your `li` elements to blue and the background color to a light pink.\n - All images should be 200 pixels tall.\n - Change all font in the body to sans-serif.\n-- Underline all `h3` elements.\n+[label](index.html)- Underline all `h3` elements.\n - All `p` tags should have 20 pixels of padding on the top and the bottom - not on the sides.\n - `h1` tags should have a 30px font size.\n - Lists should have `30px` of padding on the left.\n \n After you've completed these tasks, continue styling your page to make it look unique. You should add at least _ten additional declarations_ on top of the ones you've made above.\n \n ![An example page.](./assets/example-page.png)\n \n-\n"
+                },
+                {
+                    "date": 1686796338993,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -33,5 +33,4 @@\n \n After you've completed these tasks, continue styling your page to make it look unique. You should add at least _ten additional declarations_ on top of the ones you've made above.\n \n ![An example page.](./assets/example-page.png)\n-\n"
+                },
+                {
+                    "date": 1686796350058,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -33,4 +33,5 @@\n \n After you've completed these tasks, continue styling your page to make it look unique. You should add at least _ten additional declarations_ on top of the ones you've made above.\n \n ![An example page.](./assets/example-page.png)\n+\n"
+                },
+                {
+                    "date": 1686796360407,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -34,4 +34,6 @@\n After you've completed these tasks, continue styling your page to make it look unique. You should add at least _ten additional declarations_ on top of the ones you've made above.\n \n ![An example page.](./assets/example-page.png)\n \n+10\n+\n"
+                },
+                {
+                    "date": 1686796366097,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -34,6 +34,6 @@\n After you've completed these tasks, continue styling your page to make it look unique. You should add at least _ten additional declarations_ on top of the ones you've made above.\n \n ![An example page.](./assets/example-page.png)\n \n-10\n+1\n \n"
+                },
+                {
+                    "date": 1686796374054,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -34,6 +34,6 @@\n After you've completed these tasks, continue styling your page to make it look unique. You should add at least _ten additional declarations_ on top of the ones you've made above.\n \n ![An example page.](./assets/example-page.png)\n \n-1\n+1. change the font \n \n"
+                },
+                {
+                    "date": 1686796382708,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -34,6 +34,6 @@\n After you've completed these tasks, continue styling your page to make it look unique. You should add at least _ten additional declarations_ on top of the ones you've made above.\n \n ![An example page.](./assets/example-page.png)\n \n-1. change the font \n+1. change the font size of the hi \n \n"
+                },
+                {
+                    "date": 1686796390246,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -34,6 +34,6 @@\n After you've completed these tasks, continue styling your page to make it look unique. You should add at least _ten additional declarations_ on top of the ones you've made above.\n \n ![An example page.](./assets/example-page.png)\n \n-1. change the font size of the hi \n+1. change the font size of the h1 heading to \n \n"
+                },
+                {
+                    "date": 1686796415281,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -34,6 +34,6 @@\n After you've completed these tasks, continue styling your page to make it look unique. You should add at least _ten additional declarations_ on top of the ones you've made above.\n \n ![An example page.](./assets/example-page.png)\n \n-1. change the font size of the h1 heading to \n+1. change the font size of the h1 heading to 30 p\n \n"
+                },
+                {
+                    "date": 1686796420493,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -34,6 +34,6 @@\n After you've completed these tasks, continue styling your page to make it look unique. You should add at least _ten additional declarations_ on top of the ones you've made above.\n \n ![An example page.](./assets/example-page.png)\n \n-1. change the font size of the h1 heading to 30 p\n+1. change the font size of the h1 heading to 30px\n \n"
+                },
+                {
+                    "date": 1686796427456,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -34,6 +34,8 @@\n After you've completed these tasks, continue styling your page to make it look unique. You should add at least _ten additional declarations_ on top of the ones you've made above.\n \n ![An example page.](./assets/example-page.png)\n \n-1. change the font size of the h1 heading to 30px\n+1. change the font size of the h1 heading to 30px.\n \n+2\n+\n"
+                },
+                {
+                    "date": 1686796434780,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -36,6 +36,6 @@\n ![An example page.](./assets/example-page.png)\n \n 1. change the font size of the h1 heading to 30px.\n \n-2. Unde\n+2. Under\n \n"
+                },
+                {
+                    "date": 1686796463020,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -38,6 +38,6 @@\n 1. change the font size of the h1 heading to 30px.\n \n 2. Underline the H1 heading.\n \n-3 Change the backgou\n+3 Change the backgoun\n \n"
+                }
+            ],
+            "date": 1686784404600,
+            "name": "Commit-0",
+            "content": "# Introductory CSS Lab\n\nIn this lab, you'll have the opportunity to design a personal webpage. The content already exists -- you just need to style it to the best of your ability!\n\n---\n\n## Lab Setup\n\n### Getting started\n\n1. Fork and clone this repository.\n\n1. Navigate to the `settings` tab on GitHub, then choose `Pages` from the menu. Configure the `Build and Deployment` to have a `Source` of `Deploy from a branch` and select the `main` branch for deployment. Deployments can take a few minutes, so get started on the lab, and then be sure to check the deployment after you have made a few commits.\n\n1. Open up the repository in VSCode. Follow the instructions below to complete the Lab.\n\n## Instructions\n\nTo complete the tests in this lab, you will need to add the following styles. If you're unclear about any of the instructions below, remember that you can check the test file to see what exactly is being tested.\n\n- Change the font of the name header to be `'Fantasy'` and purple.\n- Remove the bullet points from your unordered list of links.\n- Change the `font-weight` in your ordered list to bold.\n- Center all `li` elements on the page.\n- Give your `li` elements a 1px red border with curved corners.\n- Change the font color of your `li` elements to blue and the background color to a light pink.\n- All images should be 200 pixels tall.\n- Change all font in the body to sans-serif.\n- Underline all `h3` elements.\n- All `p` tags should have 20 pixels of padding on the top and the bottom - not on the sides.\n- `h1` tags should have a 30px font size.\n- Lists should have `30px` of padding on the left.\n\nAfter you've completed these tasks, continue styling your page to make it look unique. You should add at least _ten additional declarations_ on top of the ones you've made above.\n\n![An example page.](./assets/example-page.png)\n\n\n\n\n"
+        }
+    ]
+}
