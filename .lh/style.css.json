@@ -1,0 +1,50 @@
+{
+    "sourceFile": "style.css",
+    "activeCommit": 0,
+    "commits": [
+        {
+            "activePatchIndex": 8,
+            "patches": [
+                {
+                    "date": 1686762728578,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n"
+                },
+                {
+                    "date": 1686762733953,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,1 +1,1 @@\n-<heas\n\\ No newline at end of file\n+<head \n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1686762739010,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,1 +1,1 @@\n-<head \n\\ No newline at end of file\n+<head  st\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1686762750909,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,1 +1,1 @@\n-<head  st\n\\ No newline at end of file\n+<head style=\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1686762769204,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,1 +1,1 @@\n-<head style=\n\\ No newline at end of file\n+<head style=b\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1686762776570,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,1 +1,1 @@\n-<head style=b\n\\ No newline at end of file\n+<head style=background-color\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1686762783841,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,1 +1,1 @@\n-<head style=background-color\n\\ No newline at end of file\n+<head style=background-color:red\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1686762798716,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,1 +1,1 @@\n-<head style=background-color:red\n\\ No newline at end of file\n+<head style=\"background-color:red\"\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1686762811883,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,1 +1,1 @@\n-<head style=\"background-color:red\"\n\\ No newline at end of file\n+<head style=\"background-color:red\";>\n\\ No newline at end of file\n"
+                }
+            ],
+            "date": 1686762728578,
+            "name": "Commit-0",
+            "content": "<heas"
+        }
+    ]
+}
