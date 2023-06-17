@@ -1,0 +1,21 @@
+h1 {
+    font-family: fantasy;
+    color: purple;
+    font-style: italic;
+    
+}
+
+ ul li {
+   list-style-type:none
+ }
+
+ ol {
+   font-weight: bold;
+ }
+
+ li {
+   text-align: center;
+   border: 1px red;
+   font-weight: bold;
+ }
+  
