@@ -1,0 +1,56 @@
+h1 {
+    font-family: fantasy;
+    color: purple;
+    font-style: italic;
+    font-size: 30px;
+    
+}
+
+ ul li {
+   list-style-type:none
+ }
+
+ ol {
+   font-weight: bold;
+ }
+
+ li {
+   text-align: center;
+   border: 1px solid red;
+   font-weight: bold;
+   list-style-position: inside;
+   color: blue;
+   background-color: lightpink;
+ }
+
+ img {
+    height: 200px;
+    width: 200px;
+    
+   
+ }
+
+ body {
+    font-family: sans-serif;
+    background-image: url("./assets/rose-gold-glitter-pattern-with-color-effect-vector-35705998.webp");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+ }
+
+ h3 {
+    text-decoration: underline;
+ }
+
+ p {
+    padding-top: 20px;
+    padding-bottom: 20px;
+ }
+
+ .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+ }
+  
