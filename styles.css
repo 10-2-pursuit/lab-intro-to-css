@@ -1,0 +1,20 @@
+h1 {
+    color: gainsboro;
+    background-color: navy;
+    font-family: sans-serif;
+    font-size: 12px;
+    font-size: 1.5em;
+    text-align: center;
+    border: 1px solid gold;
+}
+
+body {
+    background-color: rgb(164, 11, 11);
+    
+}
+
+h2 {
+    border: 1px solid gold;
+    text-align: center;
+}
+
